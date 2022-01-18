@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# docker
+data
+
 # production
 /build
 
